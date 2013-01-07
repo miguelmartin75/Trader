@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A6A5F318-75AB-45AC-81D0-64D2C5C6B88A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Trader</RootNamespace>
+    <AssemblyName>Trader</AssemblyName>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="StreamUtilties.cs" />
+    <Compile Include="Trader Game\Forms\TextBoxSingleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trader Game\Forms\TextBoxSingleForm.Designer.cs">
+      <DependentUpon>TextBoxSingleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICodeable.cs" />
+    <Compile Include="IFormUpdateable.cs" />
+    <Compile Include="IInitializeable.cs" />
+    <Compile Include="Trader Game\User Controls\HealthBarUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Trader Game\User Controls\HealthBarUserControl.Designer.cs">
+      <DependentUpon>HealthBarUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trader Game\User Controls\PlayerInventoryUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Trader Game\User Controls\PlayerInventoryUserControl.Designer.cs">
+      <DependentUpon>PlayerInventoryUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trader Game\User Controls\ItemUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Trader Game\User Controls\ItemUserControl.Designer.cs">
+      <DependentUpon>ItemUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trader Game\User Controls\MoneyUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Trader Game\User Controls\MoneyUserControl.Designer.cs">
+      <DependentUpon>MoneyUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trader Game\User Controls\PlainInventoryUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Trader Game\User Controls\PlainInventoryUserControl.Designer.cs">
+      <DependentUpon>PlainInventoryUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trader Game\User Controls\PlayerUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Trader Game\User Controls\PlayerUserControl.Designer.cs">
+      <DependentUpon>PlayerUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trader Game\Forms\PreferencesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trader Game\Forms\PreferencesForm.Designer.cs">
+      <DependentUpon>PreferencesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trader Game\User Controls\ShopUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Trader Game\User Controls\ShopUserControl.Designer.cs">
+      <DependentUpon>ShopUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trader Game\Health.cs" />
+    <Compile Include="Trader Game\Inventory.cs" />
+    <Compile Include="IUpdateable.cs" />
+    <Compile Include="Trader Game\Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trader Game\Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameLib\NameableObject.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GameLib\Scene.cs" />
+    <Compile Include="Trader Game\Enemy.cs" />
+    <Compile Include="Trader Game\Item.cs" />
+    <Compile Include="Trader Game\Location.cs" />
+    <Compile Include="Trader Game\Money.cs" />
+    <Compile Include="Trader Game\Player.cs" />
+    <Compile Include="Trader Game\Shop.cs" />
+    <EmbeddedResource Include="Trader Game\Forms\PreferencesForm.resx">
+      <DependentUpon>PreferencesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trader Game\Forms\TextBoxSingleForm.resx">
+      <DependentUpon>TextBoxSingleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trader Game\User Controls\HealthBarUserControl.resx">
+      <DependentUpon>HealthBarUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trader Game\User Controls\PlayerInventoryUserControl.resx">
+      <DependentUpon>PlayerInventoryUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trader Game\User Controls\ItemUserControl.resx">
+      <DependentUpon>ItemUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trader Game\Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trader Game\User Controls\MoneyUserControl.resx">
+      <DependentUpon>MoneyUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trader Game\User Controls\PlainInventoryUserControl.resx">
+      <DependentUpon>PlainInventoryUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trader Game\User Controls\PlayerUserControl.resx">
+      <DependentUpon>PlayerUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Trader Game\User Controls\ShopUserControl.resx">
+      <DependentUpon>ShopUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Trader Game\StringUtilities.cs" />
+    <Compile Include="Trader Game\GamePreferences.cs" />
+    <Compile Include="Trader Game\TraderGame.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\How To Play.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\Images\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

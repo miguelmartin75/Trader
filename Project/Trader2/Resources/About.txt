@@ -1,0 +1,63 @@
+﻿The Trader program is designed to be very similiar to the game called Taipan. You may buy and sell items, attempting to profit. However, you can be attacked by various enemies, or even have a chance at winning the lottery.
+
+Version: 1.0
+
+Copyright (C) 2012 Miguel Martin.
+
+
+TODO LIST:
+1. Selling items to shop
+2. Preferences
+
+-----
+Game Preferences file format:
+
+SYNTAX:
+	To make a comment, prefix the line with the '#' character. 
+ 	To define something, put the appropriate identifier on one line, followed by a colon.
+ 	e.g.
+ 	Item:
+ 	appropriate properties
+
+	NOTE: Identifiers are NOT case sensitive
+ 
+ The recommended file format is the following:
+ A list locations
+ A list of items
+ A list of enemy names
+
+ INFORMATION ON IDENTIFIERS AND 
+
+ VERSION 1:
+
+ Identifiers:
+ 
+ 
+ 	LOCATION ATTRIBUTES:
+ 		i. Shops, defined by "Shop:", refer to the shop attributes
+
+ 	SHOP ATTRIBUTES:
+ 		i. Name; The name of the shop
+ 		defined by "Name= x", where x is the name of the shop
+ 		ii. Minimum Profit Percentage; the minimum amount that the shop will profit by. 
+			Defined by "Minimum Profit Percentage=x", where x is the percentage
+ 		iii. Maximum Profit Percentage; the maximum amount that the shop will profit by.
+			Defined by "Maximum Profit Percentage=x", where x is the percentage
+
+
+ ITEM ATTRIBUTES:
+ i. Name; The name of the item
+ ii. ID; the identifier of the item, this is used for the
+
+ NOTES: 
+ i. THESE ATTRIBUTES MUST BE IN THIS ORDER!
+ ii. The attribute's name doesn't actually have to be anything, it's just there for readability purposes.
+ iii. You may NOT place a comment in the middle of defining an identifier's attributes.
+	For example, this is illegal:
+	Shop:
+		Name= New York
+		# Random comment <--
+		Min Profit Percentage= 10
+ 
+ The line marked with <-- is the problem, since it indicates the comment.
+ 

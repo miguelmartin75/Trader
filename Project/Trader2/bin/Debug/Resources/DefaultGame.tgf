@@ -1,0 +1,103 @@
+GamePreferences:
+Base Bag Upgrade Price=10
+Bag Upgrade Price Percentage Increase=75
+Maximum Amount Of Bag Space=10
+DefaultMoney:
+Amount= 100.0
+
+Player:
+Name=George
+Money:
+Amount=50000.00
+Inventory:
+Max Capacity=50
+Capacity=0
+Health:
+Min= 0
+Max= 10
+Current= 10
+
+Location:
+Name= The Moon
+Amount Of Shops= 2
+Shop:
+Name= Lunar Mart
+Min Profit Percentage= 10
+Max Profit Percentage= 100
+Shop:
+Name= Moon Bewt Store
+Min Profit Percentage= 10
+Max Profit Percentage= 100
+
+Location:
+Name= Mars
+Amount Of Shops= 2
+Shop:
+Name= Big Martian
+Min Profit Percentage= 10
+Max Profit Percentage= 100
+Shop:
+Name= Probe Mart
+Min Profit Percentage= 10
+Max Profit Percentage= 100
+
+Location:
+Name= Earth
+Amount Of Shops= 2
+Shop:
+Name= Wall Mart
+Min Profit Percentage= 10
+Max Profit Percentage= 100
+Shop:
+Name= Big W
+Min Profit Percentage= 10
+Max Profit Percentage= 100
+
+Location:
+Name= Saturn
+Amount Of Shops= 2
+Shop:
+Name= Soul Ash Stone Store
+Min Profit Percentage= 10
+Max Profit Percentage= 100
+Shop:
+Name= Droid Land
+Min Profit Percentage= 10
+Max Profit Percentage= 100
+
+Item:
+Name= Cheese
+ID= 1
+Value= 80
+Weight= 1
+
+Item:
+Name= Diamond
+ID= 2
+Value= 200
+Weight= 500
+
+Item:
+Name= Lemon
+ID= 3
+Value= 250
+Weight= 0.5
+
+Item:
+Name= Pineapple
+ID= 4
+Value= 1000
+Weight= 5
+
+Enemy:
+Name= Sly Unicorns
+Damage Amount= 10
+
+Enemy:
+Name= Angry Bandits
+Damage Amount= 5
+
+Enemy:
+Name= Squirtle the Turtle
+Damage Amount= 5
+

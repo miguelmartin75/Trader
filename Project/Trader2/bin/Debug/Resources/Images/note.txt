@@ -1,0 +1,1 @@
+Image sizes are suggested to be 64x64

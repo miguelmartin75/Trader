@@ -1,0 +1,70 @@
+C:\Users\martinm\Desktop\New folder\AnaxWindowingSystem\Trader2\Trader2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\martinm\Desktop\New folder\AnaxWindowingSystem\Trader2\Trader2\obj\x86\Debug\Trader.MainForm.resources
+C:\Users\martinm\Desktop\New folder\AnaxWindowingSystem\Trader2\Trader2\obj\x86\Debug\Trader.Properties.Resources.resources
+C:\Users\martinm\Desktop\New folder\AnaxWindowingSystem\Trader2\Trader2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\martinm\Desktop\New folder\AnaxWindowingSystem\Trader2\Trader2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\martinm\Desktop\New folder\AnaxWindowingSystem\Trader2\Trader2\bin\Debug\Trader2.exe
+C:\Users\martinm\Desktop\New folder\AnaxWindowingSystem\Trader2\Trader2\bin\Debug\Trader2.pdb
+C:\Users\martinm\Desktop\New folder\AnaxWindowingSystem\Trader2\Trader2\obj\x86\Debug\Trader2.exe
+C:\Users\martinm\Desktop\New folder\AnaxWindowingSystem\Trader2\Trader2\obj\x86\Debug\Trader2.pdb
+C:\Users\martinm\Desktop\New folder\AnaxWindowingSystem\Trader2\Trader2\obj\x86\Debug\Trader.InventoryUserControl.resources
+C:\Users\martinm\Desktop\New folder\AnaxWindowingSystem\Trader2\Trader2\obj\x86\Debug\Trader.ItemUserControl.resources
+C:\Users\martinm\Desktop\New folder\AnaxWindowingSystem\Trader2\Trader2\obj\x86\Debug\Trader.PlayerUserControl.resources
+C:\Users\martinm\Desktop\New folder\AnaxWindowingSystem\Trader2\Trader2\obj\x86\Debug\Trader.ShopUserControl.resources
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.ItemUserControl.resources
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.MainForm.resources
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.PlayerUserControl.resources
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.Properties.Resources.resources
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.ShopUserControl.resources
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.MoneyUserControl.resources
+F:\School\Trader2\Trader2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\School\Trader2\Trader2\obj\x86\Debug\Trader.InventoryUserControl.resources
+F:\School\Trader2\Trader2\obj\x86\Debug\Trader.ItemUserControl.resources
+F:\School\Trader2\Trader2\obj\x86\Debug\Trader.MainForm.resources
+F:\School\Trader2\Trader2\obj\x86\Debug\Trader.MoneyUserControl.resources
+F:\School\Trader2\Trader2\obj\x86\Debug\Trader.MultiItemUserControl.resources
+F:\School\Trader2\Trader2\obj\x86\Debug\Trader.PlayerUserControl.resources
+F:\School\Trader2\Trader2\obj\x86\Debug\Trader.Properties.Resources.resources
+F:\School\Trader2\Trader2\obj\x86\Debug\Trader.ShopUserControl.resources
+F:\School\Trader2\Trader2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\School\Trader2\Trader2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\School\Trader2\Trader2\bin\Debug\Trader.exe.config
+F:\School\Trader2\Trader2\bin\Debug\Trader.exe
+F:\School\Trader2\Trader2\bin\Debug\Trader.pdb
+F:\School\Trader2\Trader2\obj\x86\Debug\Trader.exe
+F:\School\Trader2\Trader2\obj\x86\Debug\Trader.pdb
+F:\School\Trader2\Trader2\obj\x86\Debug\Trader.TextBoxSingleForm.resources
+F:\School\Trader2\Trader2\obj\x86\Debug\Trader.PreferencesForm.resources
+F:\School\Trader2\Trader2\obj\x86\Debug\Trader.HealthBarUserControl.resources
+C:\Users\Frank\Desktop\Trader2\Trader2\bin\Debug\Trader.exe.config
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.exe
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.pdb
+C:\Users\Frank\Desktop\Trader2\Trader2\bin\Debug\Trader.exe
+C:\Users\Frank\Desktop\Trader2\Trader2\bin\Debug\Trader.pdb
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.PreferencesForm.resources
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.TextBoxSingleForm.resources
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.HealthBarUserControl.resources
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.PlainInventoryUserControl.resources
+C:\Users\Frank\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.PlayerInventoryUserControl.resources
+C:\Users\NATALEE\Desktop\Trader2\Trader2\bin\Debug\Trader.exe.config
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.exe
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.pdb
+C:\Users\NATALEE\Desktop\Trader2\Trader2\bin\Debug\Trader.exe
+C:\Users\NATALEE\Desktop\Trader2\Trader2\bin\Debug\Trader.pdb
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.PreferencesForm.resources
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.TextBoxSingleForm.resources
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.HealthBarUserControl.resources
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.PlayerInventoryUserControl.resources
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.ItemUserControl.resources
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.MainForm.resources
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.MoneyUserControl.resources
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.PlainInventoryUserControl.resources
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.PlayerUserControl.resources
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.Properties.Resources.resources
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\Trader.ShopUserControl.resources
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NATALEE\Desktop\Trader2\Trader2\obj\x86\Debug\GenerateResource.write.1.tlog

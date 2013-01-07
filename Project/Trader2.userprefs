@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trader2/Trader Game/Forms/MainForm.cs">
+    <Files>
+      <File FileName="Trader2/Trader Game/TraderGame.cs" Line="481" Column="18" />
+      <File FileName="Trader2/Trader Game/User Controls/ShopUserControl.cs" Line="119" Column="5" />
+      <File FileName="Trader2/Trader Game/Forms/MainForm.cs" Line="109" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
